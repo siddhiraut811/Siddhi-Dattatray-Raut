@@ -1,0 +1,6 @@
+{
+  "name": "EagleEye: Vehicle Sentinel",
+  "description": "Real-time vehicle detection and alerting system using computer vision. Monitors camera feeds to identify incoming vehicles and trigger safety alerts.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": []
+}
